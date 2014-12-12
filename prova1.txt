@@ -1,3 +1,6 @@
 file di testo creato per prova
 
 con qualche riga ..
+
+-----------
+modificata nel branch
